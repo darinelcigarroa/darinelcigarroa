@@ -63,8 +63,17 @@
     <p>Integraciones con la <strong>API de Google Maps</strong>.</p>
     <p><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</p>
     <br><br><br><br><br><br><br>
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=darinelcigarroa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+    <h2>🌱 Actualmente estoy trabajando en:</h2>
+    <p><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</p>
+    <p><strong>Conexiones a base de datos</strong> usando <strong>postgresql</strong>.</p>
+    <p>Integraciones con la <strong>API de Google Maps</strong>.</p>
+    <p><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</p>
+    <br><br><br><br><br><br><br>
+    <h2>🌱 Actualmente estoy trabajando en:</h2>
+    <p><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</p>
+    <p><strong>Conexiones a base de datos</strong> usando <strong>postgresql</strong>.</p>
+    <p>Integraciones con la <strong>API de Google Maps</strong>.</p>
+    <p><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</p>
   </div>
 </div>
 
