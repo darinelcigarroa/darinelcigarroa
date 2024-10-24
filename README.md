@@ -6,6 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
@@ -46,27 +47,24 @@
 
 <h3>My GitHub Stats</h3>
 
-<div align="right">
-  <h2>🌱 Actualmente estoy trabajando en:</h2>
-  <ul>
-    <li><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</li>
-    <li>Integraciones con la <strong>API de Google Maps</strong>.</li>
-    <li><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</li>
-  </ul>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" />
+    <br><br><br><br><br><br><br>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
+    <br><br><br><br><br><br><br><br><br><br>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darinelcigarroa&theme=dark" alt="darinelcigarroa" /></p>
+  </div>
+  
+  <div style="flex: 1; text-align: right;">
+    <h2>🌱 Actualmente estoy trabajando en:</h2>
+    <p><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</p>
+    <p>Integraciones con la <strong>API de Google Maps</strong>.</p>
+    <p><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</p>
+  </div>
 </div>
 
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darinelcigarroa&theme=dark" alt="darinelcigarroa" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-
+<hr width="60%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
