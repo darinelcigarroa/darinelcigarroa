@@ -56,14 +56,15 @@
     - Integraciones con la **API de Google Maps**.
     - **Sistemas distribuidos** y arquitecturas basadas en microservicios.
   </p>
+  <p align="right">
+    🌱 Actualmente estoy trabajando en:
+    - **Aplicaciones full-stack** usando **Laravel** y **Vue.js** (Quasar Framework).
+    - Integraciones con la **API de Google Maps**.
+    - **Sistemas distribuidos** y arquitecturas basadas en microservicios.
+  </p>
    <br><br><br><br><br><br><br>
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
-    <p align="right">
-      🌱 Actualmente estoy trabajando en:
-      - **Aplicaciones full-stack** usando **Laravel** y **Vue.js** (Quasar Framework).
-      - Integraciones con la **API de Google Maps**.
-      - **Sistemas distribuidos** y arquitecturas basadas en microservicios.
-    </p>
+
     <br><br><br><br><br><br><br><br><br><br>
 </div>
 
