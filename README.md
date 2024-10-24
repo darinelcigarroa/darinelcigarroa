@@ -12,33 +12,47 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   </a> 
-  <!-- Repetir para más iconos -->
+  <!-- Añade más iconos aquí -->
 </p>
 
 <hr width="36%">
 
 <h3>My GitHub Stats</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" />
-</p>
+<div>
+  <table>
+    <tr>
+      <!-- Columna izquierda para las estadísticas -->
+      <td width="50%">
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" /></p>
+        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
+        <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darinelcigarroa&theme=dark" alt="darinelcigarroa" /></p>
+      </td>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darinelcigarroa&theme=dark" alt="darinelcigarroa" />
-</p>
-
-<br><br>
-
-<h2 align="right">🌱 Actualmente estoy trabajando en:</h2>
-<p align="right">
-  <strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework). <br>
-  <strong>Conexiones a base de datos</strong> usando <strong>postgresql</strong>. <br>
-  Integraciones con la <strong>API de Google Maps</strong>. <br>
-  <strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.
-</p>
+      <!-- Columna derecha para "Actualmente estoy trabajando en" -->
+      <td width="50%" align="right">
+        <h2>🌱 Actualmente estoy trabajando en:</h2>
+        <p><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</p>
+        <p><strong>Conexiones a base de datos</strong> usando <strong>PostgreSQL</strong>.</p>
+        <p>Integraciones con la <strong>API de Google Maps</strong>.</p>
+        <p><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr width="60%">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/youruserid" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <!-- Añade más enlaces aquí -->
+</p>
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
