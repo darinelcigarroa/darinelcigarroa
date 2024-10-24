@@ -45,19 +45,19 @@
 <hr width="36%">
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&theme=dark&locale=en&layout=compact" alt="yourusername" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&locale=en" alt="yourusername" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="yourusername" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darinelcigarroa&theme=dark" alt="darinelcigarroa" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
 
-<hr width="60%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
