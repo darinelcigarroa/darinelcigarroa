@@ -47,18 +47,15 @@
 
 <h3>My GitHub Stats</h3>
 
-<div align="center">
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" />
-  <div align="right">
-    ## 🌱 Actualmente estoy trabajando en:
-    - **Aplicaciones full-stack** usando **Laravel** y **Vue.js** (Quasar Framework).
-    - Integraciones con la **API de Google Maps**.
-    - **Sistemas distribuidos** y arquitecturas basadas en microservicios.
-  </div>
-   <br><br>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" />
+    <br><br><br><br><br><br><br>
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
-</div>
+    <br><br><br><br><br><br><br><br><br><br>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darinelcigarroa&theme=dark" alt="darinelcigarroa" /></p>
+</p>
+
+
 
 <hr width="60%">
 
