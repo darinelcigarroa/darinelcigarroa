@@ -46,13 +46,14 @@
 
 <h3>My GitHub Stats</h3>
 
-<p align="right">
-## 🌱 Actualmente estoy trabajando en:
-
-- **Aplicaciones full-stack** usando **Laravel** y **Vue.js** (Quasar Framework).
-- Integraciones con la **API de Google Maps**.
-- **Sistemas distribuidos** y arquitecturas basadas en microservicios.
-</p>
+<div align="right">
+  <h2>🌱 Actualmente estoy trabajando en:</h2>
+  <ul>
+    <li><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</li>
+    <li>Integraciones con la <strong>API de Google Maps</strong>.</li>
+    <li><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</li>
+  </ul>
+</div>
 
 <br>
 
