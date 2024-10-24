@@ -50,12 +50,12 @@
 <div align="center">
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" />
-  <p align="right">
+  <div align="right">
     ## 🌱 Actualmente estoy trabajando en:
     - **Aplicaciones full-stack** usando **Laravel** y **Vue.js** (Quasar Framework).
     - Integraciones con la **API de Google Maps**.
     - **Sistemas distribuidos** y arquitecturas basadas en microservicios.
-  </p>
+  </div>
    <br><br>
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
 </div>
