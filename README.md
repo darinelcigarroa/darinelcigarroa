@@ -34,11 +34,5 @@
 <br><br>
 
 <h2 align="right">🌱 Actualmente estoy trabajando en:</h2>
-<p align="right">
-  <strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework). <br>
-  <strong>Conexiones a base de datos</strong> usando <strong>postgresql</strong>. <br>
-  Integraciones con la <strong>API de Google Maps</strong>. <br>
-  <strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.
-</p>
 
 <hr width="60%">
