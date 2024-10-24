@@ -64,8 +64,6 @@
   </p>
    <br><br><br><br><br><br><br>
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
-
-    <br><br><br><br><br><br><br><br><br><br>
 </div>
 
 <hr width="60%">
