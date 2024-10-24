@@ -46,8 +46,13 @@
 <hr width="36%">
 
 <h3>My GitHub Stats</h3>
-
-<p align="left" >
+<p align="right"">
+    <h2>🌱 Actualmente estoy trabajando en:</h2>
+    <p><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</p>
+    <p>Integraciones con la <strong>API de Google Maps</strong>.</p>
+    <p><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</p>
+</p>
+<p align="left" style="background: red;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinelcigarroa&show_icons=true&theme=dark&locale=en&layout=compact" alt="darinelcigarroa" />
     <br><br><br><br><br><br><br>
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darinelcigarroa&show_icons=true&theme=dark&locale=en" alt="darinelcigarroa" /></p>
@@ -55,12 +60,7 @@
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darinelcigarroa&theme=dark" alt="darinelcigarroa" /></p>
 </p>
 
-<p align="right"">
-    <h2>🌱 Actualmente estoy trabajando en:</h2>
-    <p><strong>Aplicaciones full-stack</strong> usando <strong>Laravel</strong> y <strong>Vue.js</strong> (Quasar Framework).</p>
-    <p>Integraciones con la <strong>API de Google Maps</strong>.</p>
-    <p><strong>Sistemas distribuidos</strong> y arquitecturas basadas en microservicios.</p>
-  </p>
+
 
 <hr width="60%">
 
